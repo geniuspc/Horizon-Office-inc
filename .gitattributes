@@ -1,2 +1,2 @@
-web/** linguist-vendored
-express-api/** linguist-vendored
+web/** linguist-vendored=true
+express-api/** linguist-vendored=true
